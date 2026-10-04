@@ -32,6 +32,4 @@ This project documents a hands-on upgrade and Linux installation on an older HP 
 
 The older laptop was successfully upgraded from a mechanical hard drive to an SSD and configured as a functional Linux system for continued learning and home lab use.
 
-## Project Photos
 
-Photos documenting the hardware upgrade and completed Linux system will be included in this repository.
