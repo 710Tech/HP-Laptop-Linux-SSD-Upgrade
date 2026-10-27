@@ -32,4 +32,6 @@ This project documents a hands-on upgrade and Linux installation on an older HP 
 
 The older laptop was successfully upgraded from a mechanical hard drive to an SSD and configured as a functional Linux system for continued learning and home lab use.
 
+## 📸 System Specifications
 
+![Mini HQ System Specs](Mini-HQ-System-Specs.png)
