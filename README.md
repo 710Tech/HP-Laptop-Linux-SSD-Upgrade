@@ -34,4 +34,4 @@ The older laptop was successfully upgraded from a mechanical hard drive to an SS
 
 ## 📸 System Specifications
 
-![Mini HQ System Specs](./Mini-HQ-System-Specs.png)
+![Mini HQ System Specs](Terminal%20ScreenShot.png)
